@@ -1,10 +1,10 @@
 {
-  "name": "real-estate-website",
+  "name": "wbs-solartechnik",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "postcss src/input.css -o dist/output.css --watch",
-    "build": "postcss src/input.css -o dist/output.css"
+    "dev": "postcss src/css/input.css -o dist/output.css --watch",
+    "build": "postcss src/css/input.css -o dist/output.css"
   },
   "keywords": [],
   "author": "",
